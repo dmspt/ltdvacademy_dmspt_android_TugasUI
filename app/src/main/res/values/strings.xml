@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Biografi</string>
+
+    <string name="me">
+<![CDATA[
+<html>
+ <head>
+ </head>
+ <body style="color:black;">
+ 	<p>Hai, Nama saya Adam. Dari mulai tahun 2014 atau tepatnya saat saya masih SMP, saya mulai menggunakan smartphone dan mulai tertarik untuk memodifikasi tampilan dalamnya dan saat saya sudah lulus saya melanjutkan ke SMK tepatnya jurusan RPL dijejali dengan pemrograman mobile android dengan java. Dari latar belakang tersebutlah saya menjadi sangat memiliki ketertarikan untuk mempelajarinya juga karna dijaman sekarang programmer mobile banyak dibutuhkan oleh industri maka dari itu saya selain mengandalkan guru disekolah saya juga saat lulus SMK bergabung dengan komunitas pemrograman android dan juga belajar secara otodidak dari internet.</p>
+ </body>
+</html>
+]]>
+    </string>
+
+</resources>
